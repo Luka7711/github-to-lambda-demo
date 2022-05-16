@@ -1,2 +1,2 @@
 def lambda_handler(event, context):
-    return "Updated Lambda from Github"
+    return "Updated Lambda from GitHub"
